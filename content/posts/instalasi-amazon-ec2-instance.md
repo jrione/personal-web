@@ -11,21 +11,23 @@ externalLink = ""
 series = []
 +++
 
-<script type="text/javascript">
-	atOptions = {
-		'key' : 'fde2bfab6f69ce53948ce55e9d8aa544',
-		'format' : 'iframe',
-		'height' : 50,
-		'width' : 320,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topdisplayformat.com/fde2bfab6f69ce53948ce55e9d8aa544/invoke.js"></scr' + 'ipt>');
-</script>
-
 ## Apa itu AWS?
 &nbsp;&nbsp;&nbsp;&nbsp; __AWS (Amazon Web Service)__ merupakan salah satu penyedia layanan komputasi awan (*cloud computing*) yang banyak digunakan di seluruh dunia. AWS sendiri memiliki banyak sekali fitur-fitur yang berguna salah satunya yaitu Amazon EC2. Fitur-fitur pada AWS dikelompokkan menjadi 3 kategori, yaitu *free trials* yang memiliki durasi layanan yang pendek, 12 *months free* yang memiliki durasi layanan 12 bulan (1 tahun) yang dihitung sejak pertama kali mendaftar, dan *always free* yang tidak memiliki durasi dalam pemakaiannya.
 
 &nbsp;&nbsp;&nbsp;&nbsp; __Amazon EC2 (Elastic Compute Cloud)__ merupakan salah satu fitur dari AWS yang menyediakan kapasitas komputasi yang dapat diskalakan. AWS dapat digunakan untuk membuat, mengonfigurasi keamanan dan jaringan server virtual (VPS) sesuai kebutuhan. Amazon EC2 memungkinkan penggunanya dapat meningkatkan ataupun menurunkan skala untuk untuk menangani perubahan ataupun mengurangi kebutuhan untuk memperkirakan traffic. Untuk Amazon EC2 sendiri termasuk pada kategori __12 *months free*__.
+
+<center id="gj">
+	<script type="text/javascript">
+		atOptions = {
+			'key' : '0e9792c57a4faae262184592031e18cf',
+			'format' : 'iframe',
+			'height' : 90,
+			'width' : 728,
+			'params' : {}
+		};
+		document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://injuredripplegentleman.com/0e9792c57a4faae262184592031e18cf/invoke.js"></scr' + 'ipt>');
+	</script>
+</center>
 
 ## Pembuatan Amazon EC2 Instance
 Dibawah ini langkah-langkah dalam pembuatan Amazon EC2 Instance:
@@ -70,6 +72,19 @@ Dibawah ini langkah-langkah dalam pembuatan Amazon EC2 Instance:
 
 	{{<figure src="/images/instalasi-amazon-ec2-instance/step_9.PNG" caption="Gambar 9 Tampilan Dashboard Instances">}}
 
+<center id="gj">
+	<script type="text/javascript">
+		atOptions = {
+			'key' : '0e9792c57a4faae262184592031e18cf',
+			'format' : 'iframe',
+			'height' : 90,
+			'width' : 728,
+			'params' : {}
+		};
+		document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://injuredripplegentleman.com/0e9792c57a4faae262184592031e18cf/invoke.js"></scr' + 'ipt>');
+	</script>
+</center>
+
 ## Akses Instance lewat PuTTY
 1. Buka software PuTTY, kemudian buka menu Connection > SSH > Auth, lalu masukkan file .ppk yang sebelumnya terunduh, kemudian klik Open.
 
@@ -87,14 +102,3 @@ Dibawah ini langkah-langkah dalam pembuatan Amazon EC2 Instance:
 * https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html
 * https://id.wikipedia.org/wiki/Amazon_Web_Services
 * https://www.kodingindonesia.com/belajar-aws-ec2-bagian-1-membuat-instance-amazone-web-services-elastic-compute-cloud/
-
-<script type="text/javascript">
-	atOptions = {
-		'key' : 'fde2bfab6f69ce53948ce55e9d8aa544',
-		'format' : 'iframe',
-		'height' : 50,
-		'width' : 500,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topdisplayformat.com/fde2bfab6f69ce53948ce55e9d8aa544/invoke.js"></scr' + 'ipt>');
-</script>
