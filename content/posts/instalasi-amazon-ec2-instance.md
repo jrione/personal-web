@@ -11,6 +11,18 @@ externalLink = ""
 series = []
 +++
 
+
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'fde2bfab6f69ce53948ce55e9d8aa544',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topdisplayformat.com/fde2bfab6f69ce53948ce55e9d8aa544/invoke.js"></scr' + 'ipt>');
+</script>
+
 ## Apa itu AWS?
 &nbsp;&nbsp;&nbsp;&nbsp; __AWS (Amazon Web Service)__ merupakan salah satu penyedia layanan komputasi awan (*cloud computing*) yang banyak digunakan di seluruh dunia. AWS sendiri memiliki banyak sekali fitur-fitur yang berguna salah satunya yaitu Amazon EC2. Fitur-fitur pada AWS dikelompokkan menjadi 3 kategori, yaitu *free trials* yang memiliki durasi layanan yang pendek, 12 *months free* yang memiliki durasi layanan 12 bulan (1 tahun) yang dihitung sejak pertama kali mendaftar, dan *always free* yang tidak memiliki durasi dalam pemakaiannya.
 
