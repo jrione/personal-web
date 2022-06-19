@@ -10,7 +10,7 @@ categories = ["AWS"]
 externalLink = ""
 series = []
 +++
-<meta http-equiv="Content-Security-Policy" content="default-src * self blob: data: gap:; style-src * self 'unsafe-inline' blob: data: gap:; script-src * 'self' 'unsafe-eval' 'unsafe-inline' blob: data: gap:; object-src * 'self' blob: data: gap:; img-src * self 'unsafe-inline' blob: data: gap:; connect-src self * 'unsafe-inline' blob: data: gap:; frame-src * self blob: data: gap:;">
+
 <script type="text/javascript">
 	atOptions = {
 		'key' : 'fde2bfab6f69ce53948ce55e9d8aa544',
@@ -87,3 +87,14 @@ Dibawah ini langkah-langkah dalam pembuatan Amazon EC2 Instance:
 * https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html
 * https://id.wikipedia.org/wiki/Amazon_Web_Services
 * https://www.kodingindonesia.com/belajar-aws-ec2-bagian-1-membuat-instance-amazone-web-services-elastic-compute-cloud/
+
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'fde2bfab6f69ce53948ce55e9d8aa544',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 500,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topdisplayformat.com/fde2bfab6f69ce53948ce55e9d8aa544/invoke.js"></scr' + 'ipt>');
+</script>
