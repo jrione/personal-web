@@ -16,16 +16,16 @@ series = []
 
 &nbsp;&nbsp;&nbsp;&nbsp; __Amazon EC2 (Elastic Compute Cloud)__ merupakan salah satu fitur dari AWS yang menyediakan kapasitas komputasi yang dapat diskalakan. AWS dapat digunakan untuk membuat, mengonfigurasi keamanan dan jaringan server virtual (VPS) sesuai kebutuhan. Amazon EC2 memungkinkan penggunanya dapat meningkatkan ataupun menurunkan skala untuk untuk menangani perubahan ataupun mengurangi kebutuhan untuk memperkirakan traffic. Untuk Amazon EC2 sendiri termasuk pada kategori __12 *months free*__.
 
-<center id="gj">
+<center>
 	<script type="text/javascript">
 		atOptions = {
-			'key' : '0e9792c57a4faae262184592031e18cf',
+			'key' : 'fde2bfab6f69ce53948ce55e9d8aa544',
 			'format' : 'iframe',
-			'height' : 90,
-			'width' : 728,
+			'height' : 50,
+			'width' : 320,
 			'params' : {}
 		};
-		document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://injuredripplegentleman.com/0e9792c57a4faae262184592031e18cf/invoke.js"></scr' + 'ipt>');
+		document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topdisplayformat.com/fde2bfab6f69ce53948ce55e9d8aa544/invoke.js"></scr' + 'ipt>');
 	</script>
 </center>
 
@@ -72,16 +72,16 @@ Dibawah ini langkah-langkah dalam pembuatan Amazon EC2 Instance:
 
 	{{<figure src="/images/instalasi-amazon-ec2-instance/step_9.PNG" caption="Gambar 9 Tampilan Dashboard Instances">}}
 
-<center id="gj">
+<center>
 	<script type="text/javascript">
 		atOptions = {
-			'key' : '0e9792c57a4faae262184592031e18cf',
+			'key' : 'fde2bfab6f69ce53948ce55e9d8aa544',
 			'format' : 'iframe',
-			'height' : 90,
-			'width' : 728,
+			'height' : 50,
+			'width' : 320,
 			'params' : {}
 		};
-		document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://injuredripplegentleman.com/0e9792c57a4faae262184592031e18cf/invoke.js"></scr' + 'ipt>');
+		document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topdisplayformat.com/fde2bfab6f69ce53948ce55e9d8aa544/invoke.js"></scr' + 'ipt>');
 	</script>
 </center>
 
